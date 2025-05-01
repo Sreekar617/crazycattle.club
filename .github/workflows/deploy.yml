@@ -1,6 +1,6 @@
 name: Build & Deploy to GitHub + Cloudflare Pages
 
-on: push
+on: workflow_dispatch
 
 permissions:
   contents: read
